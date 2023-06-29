@@ -2,7 +2,7 @@
 
 Desenvolvedor Full Stack - Integra Tecnologia | Estudante de Engenharia de Software - UniFil.
 
-🏠 Londrina/PR <br>
+🏠 Londrina - PR <br>
 📱 (43) 98419 - 0538 <br>
 ✉️ gabrielgoncalvespr@outlook.com
 
