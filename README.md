@@ -4,7 +4,7 @@ Desenvolvedor Full Stack - Integra Tecnologia | Estudante de Engenharia de Softw
 
 🏠 Londrina - PR <br>
 📱 (43) 98419 - 0538 <br>
-✉️ gabrielgoncalvespr@outlook.com
+✉️ gabrielg.pereira@outlook.com
 
 ##
 
